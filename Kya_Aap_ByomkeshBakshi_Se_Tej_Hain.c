@@ -1,4 +1,4 @@
-// Once upon a time in a after fest party in IIT kgp, a boy was found dead.
+// Once upon a time in a after fest party in IIT kgp, a person was found dead.
 // Police arrived and started the investigation, and with police came the most famous 
 // detective Mr. Byomkesh Bakshi. After investigation 10 people were found
 // suspicious and each one was given a number from 1 to 10.
